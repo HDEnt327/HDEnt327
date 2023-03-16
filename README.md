@@ -7,6 +7,7 @@ I am new to programming, currently learning Java, Python, HTML and javascript
 [![HDE's GitHub Status](https://github-readme-stats.vercel.app/api?username=HDEnt327&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 <!--
 **HDEnt327/HDEnt327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
