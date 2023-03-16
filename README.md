@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 I'm HDE, you may see me as HD_Entertainment, HDEnt, HDEnt0327, etc
+
 I am new to programming, currently learning Java, Python, HTML and javascript
 
-[![HDE's GitHub Status](https://github-readme-stats.vercel.app/api?username=HDEnt327)](https://github.com/anuraghazra/github-readme-stats)
+[![HDE's GitHub Status](https://github-readme-stats.vercel.app/api?username=HDEnt327&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
