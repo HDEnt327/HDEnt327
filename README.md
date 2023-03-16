@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm HDE, you may see me as HD_Entertainment, HDEnt, HDEnt0327, etc
+
 <!--
 **HDEnt327/HDEnt327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
