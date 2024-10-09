@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi
 
-I'm HDE, you may see me as HD_Entertainment, HDEnt, HDEnt0327, etc
+I'm HDE, you may see me as HDEnt, HDEnt0327, etc
 
-I am new to programming, currently learning Java, Python, HTML and javascript
+Python, Java, C#, etc
 
 [![HDE's GitHub Status](https://github-readme-stats.vercel.app/api?username=HDEnt327&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
